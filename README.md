@@ -1,9 +1,10 @@
 ## 🔥 Visão Geral
 
-Este repositório contém **15 exercícios em JavaScript**, cada um organizado em seu próprio par de arquivos:
+Este repositório contém **diversos exercícios em JavaScript**, cada um organizado em seu próprio par ou trio de arquivos:
 
 - Um arquivo `.html` para front-end.  
-- Um arquivo `.js` para a lógica do exercício.  
+- Um arquivo `.js` para a lógica do exercício. 
+- Um arquivo `.css` para a edição visual do exercício. 
 
 Cada exercício está pronto para ser executado diretamente no navegador e exibirá resultados no console.
 
